@@ -14,8 +14,9 @@ Acerca del trabajo, en este repositorio se encuentra:
 
 - Codigo del Robot Araña (Arduino)
 - Codigo de Tracking de Objetos (Método DAT)
-- El informe del trabajo Final.
+- El informe de este proyecto final.
 - Y el link del video se encuentra a continuación.
+
 
 
 LINK DEL VIDEO: https://youtu.be/pMF19rXbPtw
